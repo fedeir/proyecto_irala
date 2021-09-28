@@ -1,0 +1,24 @@
+*{  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    min-height: 8vh;
+    background-color: aquamarine;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+li{
+    padding-top:15px ;
+}
+
+a{
+    text-decoration:none;
+}

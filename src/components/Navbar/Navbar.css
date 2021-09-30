@@ -15,8 +15,14 @@ ul{
     flex-direction: row;
     justify-content: space-evenly;
 }
+
 li{
     padding-top:15px ;
+}
+
+#cartWidget{
+    float:right;
+    list-style: none;
 }
 
 a{

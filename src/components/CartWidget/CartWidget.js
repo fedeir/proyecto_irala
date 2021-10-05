@@ -5,9 +5,10 @@ import { faCartPlus } from '@fortawesome/free-solid-svg-icons'
 const CartWidget = () => {
     return (
         <div>
-            <span> <FontAwesomeIcon icon={faCartPlus} size="lg" /></span>
+            <span> <FontAwesomeIcon icon={faCartPlus} size="2x" /></span>
         </div>
     )
 }
+
 
 export default CartWidget

@@ -1,6 +1,6 @@
 import React from "react";
 
-const ItemDetail = ({id, precio, stock, nombre, descripcion, imagen}) => {
+const ItemDetail = ({precio, stock, nombre, descripcion, imagen}) => {
   return (
     <div>
       <div className="card" style={{ width: 18 + "rem" }}>
